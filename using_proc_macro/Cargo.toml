@@ -1,0 +1,8 @@
+[package]
+name = "using_proc_macro"
+version = "0.1.0"
+authors = ["<none>"]
+edition="2015"
+
+[dependencies]
+proc_macro_crate={path="../proc_macro_crate"}
